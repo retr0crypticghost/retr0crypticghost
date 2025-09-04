@@ -1,50 +1,39 @@
 # 👋 Hi, I'm retr0
 
-I'm a **Site Reliability Engineer** who loves exploring where software meets hardware. My work spans cloud infrastructure, automation, and cybersecurity all the way down to microcontrollers, retro hardware, and digital fabrication. Driven by curiosity, I focus on building resilient, adaptable systems—and sharing the experiments I create along the way.  
+I’m a **Site Reliability Engineer** with an interest in how software and hardware fit together. My work covers cloud infrastructure, automation, and security, as well as side projects with microcontrollers, retro computing, and digital fabrication.  
 
-> **Note:** This account (`@retrocrypticghost`) is my public-facing space for open-source projects and personal tinkering—helping me maintain a clear work/life boundary.  
+This account (`@retr0crypticghost`) is where I share open-source experiments, personal projects, and templates that others may find useful. It’s separate from my professional work to keep a clear boundary.
 
 ---
 
-## 🧠 Interests
-
-- **Cybersecurity**: Systems hardening, threat modeling, and automation-driven defense.  
-- **Generative AI & LLM Research**: Language models, agent frameworks, and prompt optimization.  
-- **Automation & Infrastructure**: From CI/CD pipelines to full system provisioning.  
-- **Open Source Advocacy**: Supporting FOSS tools and community-driven development.  
-- **Embedded Systems & Microcontrollers**: Low-level programming, prototyping, and hardware hacking.  
-- **3D Printing & Digital Fabrication**: Designing and printing functional parts (Prusa MK3S, Ender Pro series).  
-
-> I thrive at the intersection of software, hardware, and fabrication—where code meets circuits, and ideas become things.  
+## 🧠 Areas of Interest
+- **Security & Reliability:** hardening systems, improving logging, and automating safeguards  
+- **Infrastructure & Automation:** CI/CD pipelines, GitOps workflows, reproducible environments  
+- **Programming & Languages:** Python, C/C++, learning Rust and Lua  
+- **Embedded & Retro:** experimenting with microcontrollers and vintage hardware  
+- **Digital Fabrication:** practical 3D printing and small-scale prototyping  
 
 ---
 
 ## 🚧 Projects
-
-Featured projects coming soon—until then, feel free to explore the repos.    
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python, C, C++, *Rust (learning)*, *Lua (learning)*  
-- **Cloud & Infrastructure**: AWS (Certified SysOps Admin), Azure, DigitalOcean, Linode  
-- **Containers & Virtualization**: Docker, KVM/QEMU, Libvirt, oVirt, OLVM, VMware ESXi  
-- **IaC & Automation**: Ansible, Puppet, Terraform  
-- **CI/CD & DevOps**: GitHub Actions, GitLab CI, Jenkins  
-- **Monitoring & Observability**: Prometheus, Grafana, Thanos  
-- **Artifact Management**: JFrog Artifactory  
-- **Operating Systems**: Linux (RHEL, AlmaLinux, Rocky, Oracle Linux, Ubuntu)  
-- **LLMs & Agents**: OpenRouter, LM Studio, Ollama (local inference), prompt engineering  
-- **Embedded & Edge**: Microcontrollers, retro hardware, Commodore 64  
+- **python-template** — a starting point for Python projects with sensible defaults (linting, type checking, testing, CI/CD, and security scanning).  
+- More small projects and tools will be published here over time.
 
 ---
 
-## 📬 Get in Touch
+## 🛠️ Technical Background
+- **Languages:** Python, C, C++; learning Rust and Lua  
+- **Cloud & Virtualization:** AWS, Azure, Docker, KVM/QEMU, libvirt, VMware ESXi  
+- **Infrastructure as Code:** Ansible, Puppet, Terraform  
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins  
+- **Monitoring & Observability:** Prometheus, Grafana, Thanos  
+- **Operating Systems:** Linux (RHEL, AlmaLinux, Rocky, Ubuntu)  
+- **Other Interests:** LLMs (local inference, agents), embedded systems, retro hardware  
 
-If you're into **SRE, cybersecurity, automation, virtualization, open source, Linux, or retro tech**—I'd love to connect.
+---
 
-- 📧 Email: [retr0@vintage.systems](mailto:retr0@vintage.systems)  
-- 🐦 Twitter/X: [@retr0crypticghost](https://twitter.com/retr0crypticghost)  
+## 📬 Contact
+If you share interests in **SRE, security, automation, Linux, or retro tech**, feel free to connect:
 
-Let’s build **resilient systems** together—modern or vintage.  
+- 📧 [retr0@vintage.systems](mailto:retr0@vintage.systems)  
+- 🐦 [@retr0crypticghost](https://twitter.com/retr0crypticghost)  
